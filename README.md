@@ -9,7 +9,8 @@ This is an one stop platform for the students who are willing to get placed in t
 
 ## Screenshots
 
-![placeprep Screenshot](https://github.com/RownakM/placeprep/blob/main/assets/img/screencapture-34-97-189-191-2023-01-11-21_28_17.png)
+![placeprep Screenshot](https://github.com/RownakM/placeprep/blob/main/assets/img/image_2023-01-11_214909583.png)
+![placeprep Screenshot](https://github.com/RownakM/placeprep/blob/main/assets/img/image_2023-01-11_214954666.png)
 
 
 ## Tech Stack
