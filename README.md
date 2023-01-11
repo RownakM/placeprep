@@ -40,7 +40,7 @@ open index.php
 
 ## Optimizations
 
-Looking into the future prospect of the project , we will add some more features like 
+Looking into the future prospects of the project , we will add some more features like 
 
 - Login Credentials
 - Mock Test / Interviews
