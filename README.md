@@ -1,6 +1,6 @@
 
 # PlacePrep | GCCP Project 2022 
-[Visit PlacePrep](http://34.97.189.191)
+[Visit PlacePrep](http://34.97.85.39)
 
 PlacePrep is a website which provides a complete guidance for the students about the core subjects , projects and placement preparing materials they need to prepare to get into a good MNC / Company . 
 
