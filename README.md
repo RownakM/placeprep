@@ -51,3 +51,5 @@ To make it more dynamic and scale it on larger basis to roll out further changes
 ## Note
 
 This project is made for **Google Cloud Career Practitioner Program 2022** and hosted using *Google Cloud*
+
+*This project is made uder the leadership of Debodeep Ghosal (Google Cloud Lead GDSC TIU)* 
