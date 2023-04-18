@@ -1,5 +1,5 @@
 
-# PlacePrep | GCCP Project 2022 
+# PlacePrep | GCCP Project 2022 done under DEBODEEP GHOSAL
 [Visit PlacePrep](http://34.97.85.39)
 
 PlacePrep is a website which provides a complete guidance for the students about the core subjects , projects , DSA Coding and placement preparing materials they need to prepare to get into a good MNC / Company . 
@@ -52,4 +52,4 @@ To make it more dynamic and scale it on larger basis to roll out further changes
 
 This project is made for **Google Cloud Career Practitioner Program 2022** and hosted using *Google Cloud*
 
-*This project is made uder the leadership of* **Debodeep Ghosal (Google Cloud Lead GDSC TIU)** *with Rownak Mazumder, Debosmita Bhattacharjee & Gourav Ghosal.* 
+*This project is made uder the leadership of* **Debodeep Ghosal (Cloud/Facilatator @GDSC TIU)** *with Rownak Mazumder, Debosmita Bhattacharjee & Gourav Ghosal.* 
